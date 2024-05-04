@@ -1,0 +1,75 @@
+img{
+    width: 300px;
+    height: 170px;
+    padding-bottom: -100px;
+    margin-top: 90px;
+   
+}
+h1{
+    margin-top: 15px;
+}
+
+body{
+    text-align: center;
+    border: #3e95e6 3px solid ;
+    border-radius: 10px;
+    margin: 550px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    padding-bottom: 110px;
+}
+
+#open1{
+ padding: 13px 100px 13px 250px;
+ border-radius: 10px;
+}
+
+#open2{
+    padding: 13px 100px 13px 250px;
+    border-radius: 10px;
+    
+}
+
+#email{
+
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 457px;
+    margin-top: 20px;
+    margin-bottom: 1px;
+}
+
+#senha{
+
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 457px;
+    margin-bottom: 1px;
+    margin-top: 10px;
+
+}
+
+input::placeholder{
+    text-align:left;
+}
+
+#f{
+
+  padding: 10px 175px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+
+}
+
+#g{
+
+  padding: 10px 183px;
+  
+  margin-bottom: 10px;
+
+}
+
+#entrar{
+    
+  padding: 11px 245px;
+  margin-top: 40px;
+
+}
